@@ -1,8 +1,7 @@
 # DS200 - Big Data Labs (UIT)
 
 ![Apache Spark](https://img.shields.io/badge/Engine-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Data Stack](https://img.shields.io/badge/Stack-Hadoop%20%7C%20Hive%20%7C%20Kafka-0A66C2)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Data Stack](https://img.shields.io/badge/Stack-Hadoop%20%7C%20Spark-0A66C2)
 
 > A collection of Big Data labs for the **DS200** course @ **University of Information Technology (UIT)**.  
 > Built for practical learning with distributed data processing, scalable pipelines, and analytics workflows.
