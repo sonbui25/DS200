@@ -23,8 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-*.txt*
-
+#*.txt*
+23521350.txt*
 # Maven build output
 target/
 
@@ -35,3 +35,9 @@ target/
 
 # OS junk
 .DS_Store
+
+#venv
+*env*/
+
+#crc files
+*.crc
