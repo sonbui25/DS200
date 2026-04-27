@@ -1,0 +1,13 @@
+--- DIEM TRUNG BINH THEO THE LOAI ---
+Genre: Film-Noir, AvgRating: 4.36, Count: 7
+Genre: Horror, AvgRating: 4.00, Count: 2
+Genre: Mystery, AvgRating: 4.00, Count: 2
+Genre: Fantasy, AvgRating: 3.86, Count: 29
+Genre: Crime, AvgRating: 3.81, Count: 42
+Genre: Drama, AvgRating: 3.76, Count: 128
+Genre: Sci-Fi, AvgRating: 3.73, Count: 54
+Genre: Action, AvgRating: 3.71, Count: 54
+Genre: Thriller, AvgRating: 3.70, Count: 27
+Genre: Family, AvgRating: 3.67, Count: 18
+Genre: Adventure, AvgRating: 3.63, Count: 83
+Genre: Biography, AvgRating: 3.56, Count: 25

@@ -1,0 +1,15 @@
+--- DIEM TRUNG BINH THEO PHIM VA GIOI TINH ---
+Lawrence of Arabia (1962)	Male_Average_Rating: 3.55, Female_Average_Rating: 3.31
+Psycho (1960)	Male_Average_Rating: N/A, Female_Average_Rating: 4.00
+The Godfather: Part II (1974)	Male_Average_Rating: 4.06, Female_Average_Rating: 3.94
+Sunset Boulevard (1950)	Male_Average_Rating: 4.33, Female_Average_Rating: 4.50
+E.T. the Extra-Terrestrial (1982)	Male_Average_Rating: 3.81, Female_Average_Rating: 3.55
+The Terminator (1984)	Male_Average_Rating: 3.93, Female_Average_Rating: 4.14
+Fight Club (1999)	Male_Average_Rating: 3.50, Female_Average_Rating: 3.50
+The Silence of the Lambs (1991)	Male_Average_Rating: 3.33, Female_Average_Rating: 3.00
+The Lord of the Rings: The Fellowship of the Ring (2001)	Male_Average_Rating: 4.00, Female_Average_Rating: 3.80
+The Lord of the Rings: The Return of the King (2003)	Male_Average_Rating: 3.75, Female_Average_Rating: 3.90
+Gladiator (2000)	Male_Average_Rating: 3.59, Female_Average_Rating: 3.64
+No Country for Old Men (2007)	Male_Average_Rating: 3.92, Female_Average_Rating: 3.83
+The Social Network (2010)	Male_Average_Rating: 4.00, Female_Average_Rating: 3.67
+Mad Max: Fury Road (2015)	Male_Average_Rating: 4.00, Female_Average_Rating: 3.32

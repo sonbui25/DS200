@@ -1,0 +1,15 @@
+--- PHAN TICH DANH GIA THEO OCCUPATION ---
+Accountant	Average_Rating: 3.58, Count: 6
+Artist	Average_Rating: 3.73, Count: 11
+Consultant	Average_Rating: 3.86, Count: 14
+Designer	Average_Rating: 4.00, Count: 13
+Doctor	Average_Rating: 3.69, Count: 21
+Engineer	Average_Rating: 3.56, Count: 18
+Journalist	Average_Rating: 3.85, Count: 17
+Lawyer	Average_Rating: 3.65, Count: 17
+Manager	Average_Rating: 3.47, Count: 16
+Nurse	Average_Rating: 3.86, Count: 11
+Programmer	Average_Rating: 4.25, Count: 10
+Salesperson	Average_Rating: 3.65, Count: 17
+Student	Average_Rating: 4.00, Count: 8
+Teacher	Average_Rating: 3.70, Count: 5
